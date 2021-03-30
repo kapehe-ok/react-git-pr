@@ -1,1 +1,3 @@
-print('How are you?')
+
+def func():
+    print("Hello There!")
