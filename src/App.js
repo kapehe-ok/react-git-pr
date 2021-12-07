@@ -1,11 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Aloha! Kapehe here!!</h1>
+      <h1>Testing GitHub Pull Request</h1>
     </div>
   );
 }
